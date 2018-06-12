@@ -159,22 +159,6 @@ Included are the following tools:
 On cloning this repository, `cd` into the repo directory and run `install.sh`.
 May need to run as sudo depending on `/usr/local/bin` permissions.
 
-Alternatively, the scripts `chronigall_timer.sh` and
-`find_local_file.sh`, and `left_center_pad.sh` should be given execution
-permission (`chmod +x`) And at least the latter should be placed in the PATH
-and aliased to `findlocalest`.
-
-Example:
-
-```
-git clone <repository-url>
-cd <repository-dir>
-chmod +x find_local_file.sh
-chmod +x chronigall_timer.sh
-ln -s "$(pwd)"/find_local_file.sh /usr/local/bin/findlocalest
-ln -s "$(pwd)"/chronigall_timer.sh /usr/local/bin/chronigall
-
-```
 
 ### Installation Jankiness
 
