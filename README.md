@@ -2,6 +2,7 @@
 *A Markdown based format for invoiceable timekeeping*
 
 
+![Screenshot](/screenshots/screenshot.png)
 
 ## Overview
 
@@ -82,6 +83,7 @@ To this end, the reference implementation tools recognize a line beginning with
 03:34:07 -- fixing up foo_widget failing tests in preparation for merge with
 new_feature branch
 > 03:54:40 -- repose
+> Efficiency: 48%
 
 ```
 
