@@ -9,7 +9,7 @@
 This repository comprises the specification of the Chronigall format for
 keeping records of work done for such purposes as billing hourly clients as
 well as a reference implementation of a command line timer which automatically
-appends to a timelog file in the Chronigall markdown format and tols for
+appends to a timelog file in the Chronigall markdown format and tools for
 creating timelog artifcats from a master project timelog suitable for client
 review.
 
