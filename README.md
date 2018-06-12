@@ -107,7 +107,7 @@ instance for the purpose of category tracking.
 
 ### Location of the Timelog File
 
-The reference implemntation timer tool has the ability to write to Chronigall
+The reference implementation timer tool has the ability to write to Chronigall
 timelog files on a per project basis. As such, it has the following
 expectations:
 
